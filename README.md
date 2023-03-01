@@ -6,6 +6,8 @@
 
 This repository contains the code for our paper "PA&DA: Jointly Sampling PAth and DAta for Consistent NAS". We will release them soon.
 
+![pa-da_framework](assets/pa-da_framework.png)
+
 
 ## Citation
 If you find this work helpful in your research, please consider citing our paper:
