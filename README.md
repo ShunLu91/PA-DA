@@ -12,8 +12,8 @@ This repository contains the code for our paper "PA&DA: Jointly Sampling PAth an
 ## Citation
 If you find this work helpful in your research, please consider citing our paper:
 ```
-@inproceedings{lu2023pa-da,
-  title     = {PA&DA: Jointly Sampling PAth and DAta for Consistent NAS},
+@inproceedings{lu2023pa,
+  title     = {PA\&DA: Jointly Sampling PAth and DAta for Consistent NAS},
   author    = {Lu, Shun and Hu, Yu and Yang, Longxing and Sun, Zihao and Mei, Jilin and Tan, Jianchao and Song, Chengru},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2023}
