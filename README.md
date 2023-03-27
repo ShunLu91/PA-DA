@@ -39,7 +39,7 @@ If you have any questions or concerns, please feel free to raise an issue and di
     mkdir dataset
     ln -s /Path/To/Your/$Dataset ./dataset/cifar10
 ```
-* Download `nasbench201_dict.npy` from [Google Drive](https://drive.google.com/drive/folders/1N0F1usOr0YVn9xLHU0RHDoGAHFScwt8l?usp=sharing)] and place it to the folder of `./dataset/nasbench201`:
+* Download `nasbench201_dict.npy` from [[Google Drive](https://drive.google.com/drive/folders/1N0F1usOr0YVn9xLHU0RHDoGAHFScwt8l?usp=sharing)] and place it to the folder of `./dataset/nasbench201`:
 ```shell
     mkdir dataset/nasbench201
     mv /Path/To/nasbench201_dict.npy ./dataset/nasbench201
