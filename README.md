@@ -66,6 +66,12 @@ Note that this command will use `PA&DA` to train the supernet and rank all sub-m
     # set GPU IDX in the script
     bash script/train_panda_201.sh
 ```
+
+## Acknowledgments
+During our implementations, we referred the following code and we sincerely appreciate their valuable contributions: 
+* [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL)
+* [RHO-Loss](https://github.com/OATML/RHO-Loss)
+
 ## Citation
 If you find this work helpful in your research, please consider citing our paper:
 ```
